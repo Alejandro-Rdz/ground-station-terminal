@@ -22,8 +22,15 @@ Team managers
 * [Melissa M. Ocampo](mailto:m.mora.5@estudiantec.cr)
 
 OBCC
-* Juan Diego E. Muñoz
-* Luis L. Duarte
+* [Juan Diego E. Muñoz](mailto:j.esquivel-3@estudiantec.cr)
+* [Luis L. Duarte](mailto:lledezma@estudiantec.cr)
 
-Potencia
+Power
+* N/A
+  
+Rotors
+* [Meizel S. Quintero](mailto:m.santamaria.1@estudiantec.cr)
+* [Alejandro R. González](mailto:a.rodriguez.7@estudiantec.cr)
 
+Housing
+* N/A
