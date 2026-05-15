@@ -28,4 +28,4 @@ Students
 * [Adrián B. Torres](mailto:a.barrantes.2@estudiantec.cr)
 * [Meizel S. Quintero](mailto:m.santamaria.1@estudiantec.cr)
 * [Alejandro R. González](mailto:a.rodriguez.7@estudiantec.cr)
-* [Fátima Cárdenas Obando](mailto:fatimaco13@estudiantec.cr)
+* [Fátima C. Obando](mailto:fatimaco13@estudiantec.cr)
