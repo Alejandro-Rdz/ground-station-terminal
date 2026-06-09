@@ -3,6 +3,7 @@
 # *Revisar la Wiki para más información de los subsistemas y componentes*
 
 ### Mission Statement
+
 * Our mission is to design, implement, and operate a Ground Station Terminal capable of establishing and maintaining reliable communication with CubeSATs in orbit, enabling academic research, experimentation, and hands-on learning in satellite communications.
 
 ### Most recent version of this repository can be found in: ### 
@@ -10,6 +11,7 @@
 * [GST-Delta Lab](https://github.com/DeltaLabo/ground-station-terminal.git)
 
 ### What is this repository for? ###
+
 * This repository compiles information about the construction and operation of a ground station capable of receiving satellite data in the 400~470 MHz range. It also allows for the transmission of data for internal testing at the Delta Laboratory. The repository includes code, documentation, and a Bill of Materials (BOM).
 
 ### Contribution guidelines ###
@@ -20,12 +22,14 @@
 ### Team structure ###
 
 Assigned professor
+
 * [Juan J. Rojas](mailto:juan.rojas@itcr.ac.cr)
 
 Students
-* [Juan Diego E. Muñoz](mailto:j.esquivel-3@estudiantec.cr)
-* [Luis L. Duarte](mailto:lledezma@estudiantec.cr)
-* [Adrián B. Torres](mailto:a.barrantes.2@estudiantec.cr)
-* [Meizel S. Quintero](mailto:m.santamaria.1@estudiantec.cr)
-* [Alejandro R. González](mailto:a.rodriguez.7@estudiantec.cr)
-* [Fátima C. Obando](mailto:fatimaco13@estudiantec.cr)
+
+* [Juan Diego Esquivel M.](mailto:j.esquivel-3@estudiantec.cr)
+* [Luis Ledezma D.](mailto:lledezma@estudiantec.cr)
+* [Adrián Barrantes T.](mailto:a.barrantes.2@estudiantec.cr)
+* [Meizel Santamaría Q.](mailto:m.santamaria.1@estudiantec.cr)
+* [Alejandro Rodríguez G.](mailto:a.rodriguez.7@estudiantec.cr)
+* [Fátima Cárdenas O.](mailto:fatimaco13@estudiantec.cr)
